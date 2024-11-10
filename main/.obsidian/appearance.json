@@ -1,0 +1,9 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Blue Topaz",
+  "accentColor": "#665cf5",
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "custom"
+  ]
+}

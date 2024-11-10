@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "9f2b669164ac99e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "80325fade3ff8ba3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89d16aba347f8ef4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Droit de l'entreprise/TD/TD1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TD1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2db9e32b27e55a97",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e182f44c412885b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b2951d39ecb5417",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "e0a7054126745725",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Rapport",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "7e7ecd72d91c81da",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signet"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "ada0544953990b0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "0fbb46337a4bbc06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbdc77e8b5d13722",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Programmation Système et réseau/Processus.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétrolien pour Processus"
+            }
+          },
+          {
+            "id": "1db70d1f0d103a57",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bienvenue.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants de Bienvenue"
+            }
+          },
+          {
+            "id": "00e32a358186f3cc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "3c188653a066abeb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bienvenue.md"
+              },
+              "icon": "lucide-list",
+              "title": "Plan de Bienvenue"
+            }
+          },
+          {
+            "id": "aab7a5bd713b9d22",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 239,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Ouvrir la vue graphique": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-importer:Open Importer": false,
+      "gpt3-notes:GPT-3 Notes": false
+    }
+  },
+  "active": "89d16aba347f8ef4",
+  "lastOpenFiles": [
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Droit de l'entreprise/Chapitre I L'entreprise individuelle et unité de patrimoine.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Droit de l'entreprise/Introduction au droit de l'entreprise.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Droit de l'entreprise/Les statuts des différentes organisations.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Droit de l'entreprise/TD/TD1.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/IPV4 VS IPV6.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/SGBD/Rappels SQL.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Poo Java/TD/Rapport Classe Fraction et Classe Cercle.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/SGBD",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Poo Java/TD/Rapport copie profonde et  Copie superficielle.md",
+    "Untitled Kanban.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Intelligence Artificielle/intro intelligence artificielle.md",
+    "2024-11-05.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Programmation Système et réseau/Processus.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Programmation Système et réseau/Systèmes de fichiers.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Poo Java/Encapsulation et contrat.md",
+    "Sans titre.canvas",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Big Data/Intro au Big Data.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Big Data/Les Différents domaines.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Intelligence Artificielle/Sans titre.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Intelligence Artificielle/TD/Note.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Théorie des Langages et automates/Grammaire de réécriture.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Théorie des Langages et automates/Théorie des Langages et Reconnaisseurs.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/Samba.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Poo Java/Poo avancée/Classes internes.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Poo Java/Poo avancée/Gestion des Exceptions.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Théorie des Langages et automates/TD/Introduction à la théorie des langages.md",
+    "Sans titre 1.canvas",
+    "Sans titre 2.canvas",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Signal/Système récursif et non récursif.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Théorie des Langages et automates/TD",
+    "Dic2-INFO-2024/Sans titre 1",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Poo Java/Poo avancée",
+    "Springboot",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Intelligence Artificielle/TD",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Poo Java/TD",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Droit de l'entreprise/TD",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Programmation Système et réseau/TD",
+    "Dic2-INFO-2024/Programmation Système et réseau/Sans titre.md"
+  ]
+}
