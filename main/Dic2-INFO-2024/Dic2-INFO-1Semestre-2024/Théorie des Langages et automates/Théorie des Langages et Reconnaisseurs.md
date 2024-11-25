@@ -2,7 +2,7 @@
 
 ---
 
-# Théorie des Langages et Reconnaisseurs
+
 
 ## Symboles, Alphabets et Mots
 - **Symbole** : Élément indivisible servant de brique de base pour concevoir un mot.

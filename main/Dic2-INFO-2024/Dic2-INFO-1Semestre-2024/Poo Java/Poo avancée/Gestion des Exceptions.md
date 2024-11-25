@@ -2,8 +2,6 @@
 
 ---
 
-# Gestion des Exceptions
-
 ## Programmation Concurrentielle
 Java prend en charge la programmation concurrentielle, permettant l'exécution de plusieurs tâches simultanément.
 

@@ -89,7 +89,7 @@ le big data se réfère aux technologies qui permettent aux entreprises d'analys
 - **Variété** : types de données très divers (texte, multimédia, graphes, données structurées).
 - **Vélocité** : données produites ou modifiées à une vitesse très élevée (LHC : 100,000,000 collisions / seconde).
 - **Véracité** : données de qualité très variable ; imprécisions, non fiables.
-- **Valeur** : la valeur, p.ex. baisse de tension imminente, que renferment les données.
+- **Valeur** : la valeur, p.ex. baisse de tension imminente, que renferment les données. 
 ### Data analyste
 
 quelqu'un qui a des compétence technique et métier exemple quelqu'un pouvant faire un Dashboard

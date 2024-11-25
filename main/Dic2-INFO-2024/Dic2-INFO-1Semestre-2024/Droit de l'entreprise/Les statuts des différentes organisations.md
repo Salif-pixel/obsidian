@@ -1,7 +1,6 @@
 
 ---
 
-# Les statuts des différentes organisations
 > [!Questions]
 >**L'entreprise est une organisation donc quelles sont les règles applicable a celle ci ?
 >Comment crée t'ont une entreprise ?

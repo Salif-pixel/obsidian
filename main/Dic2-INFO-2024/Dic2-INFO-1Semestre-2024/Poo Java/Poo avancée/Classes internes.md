@@ -1,6 +1,6 @@
 
 ---
-# Classes internes
+
 >[!Analyse des besoins]
 >
 >L'objectif de l'analyse est de comprendre les besoins de l'application et d'identifier les principales fonctionnalités. Cette phase comprend généralement :
@@ -104,3 +104,11 @@ public class E { // Classe externe
     }
 }
 ```
+
+une classe interne peut être déclare avec n'importe quel modificateur d'accès `public, protected, private` elles ne peuvent pas être déclare avec des blocs statiques et ne peuvent déclarer de membres statiques , les membres statiques de la classe externe peuvent être hérités par la classe interne , 
+
+on a 4 types de classes internes :
+- Une classe interne simples
+- les classes locales
+- les classes internes anonymes
+- les classes internes statiques  

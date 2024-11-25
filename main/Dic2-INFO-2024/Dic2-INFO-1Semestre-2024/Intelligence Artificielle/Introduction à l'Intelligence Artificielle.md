@@ -2,7 +2,6 @@
 
 ---
 
-# Introduction à l'Intelligence Artificielle
 
 L'intelligence artificielle (<font color="#1f497d">IA</font>) est une simulation de la pensée ou du raisonnement humain. Elle englobe divers domaines, notamment :
 

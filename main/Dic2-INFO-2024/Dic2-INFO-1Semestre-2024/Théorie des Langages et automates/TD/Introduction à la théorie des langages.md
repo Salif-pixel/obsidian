@@ -2,6 +2,7 @@
 ---
 # Exercice1:
 - Comptons le nombre d'occurrences des lettres a et b dans les mots suivants
+
 > `aabg,jdd,titi,babc,a^3cbbca`.
 >`|m|a` dans `aabg` = 2
 >`|m|a` dans `jdd` = 0
@@ -15,6 +16,7 @@
 >`|m|b` dans `a^3cbbca` = 2
 
 - Donnons l'ensemble des couples (`u,v`) tels que `uv =abaac`
+
 > `u=a, v=baac  → uv=abaac`
 >`u=ab , v=aac  → uv=abaac `
 >`u=aba , v=ac  → uv=abaac`
@@ -22,7 +24,10 @@
 >` u=abaac , v=ε → uv=abaac`
 
 - Déterminons les facteurs , les préfixes et les suffixes du mot u = `abac`
+
 - Les facteurs
+
+>`"ε"`
 >` "a"`
 >`"b"`
 >`"c"`
@@ -33,14 +38,18 @@
 >`"bac"`
 >`"abac"`
 - Les préfixes
-> `""`
+
+> `"ε"`
 >`"a"`
 >` "ab"`
 >`"aba"`
 >`"abac"`
 - Les suffixes
-> `""`
+
+> `"ε"`
 >`"c"`
 >` "ac"`
 >`"bac"`
 >`"abac"`
+
+- 

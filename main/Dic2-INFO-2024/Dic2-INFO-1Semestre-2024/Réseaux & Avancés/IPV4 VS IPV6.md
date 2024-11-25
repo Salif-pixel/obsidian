@@ -52,12 +52,12 @@
 | --------------- | ----------------------- | -------------------------------------------------------------------------------------------------------------- |
 | anycast         | Interface=0             |                                                                                                                |
 | multicast       | Préfixe commence par FF | permanente `0000` FF0000                                                                                       |
-|                 | Préfixe commence par FF | temporaire    `0001` FF0001                                                                                    |
-|                 | Préfixe commence par FF | de site local le scope est egal à `101` FF0000101                                                              |
+| multicast       | Préfixe commence par FF | temporaire    `0001` FF0001                                                                                    |
+| multicast       | Préfixe commence par FF | de site local le scope est egal à `101` FF0000101                                                              |
 | unicast         | Adresse IPv4 mappée     | Compatible avec IPv4, les 96 premiers bits sont à  0 les 64 premiers du préfixe suivi des 32 bits d'interfaces |
-|                 | Unicast de lien local   | Communication locale, commence par `FE8`                                                                       |
-|                 | Unicast de site local   | Communication locale, commence par `FEC`                                                                       |
-|                 | Unicast global          | `autres`                                                                                                       |
+| unicast<br>     | Unicast de lien local   | Communication locale, commence par `FE8`                                                                       |
+| unicast<br>     | Unicast de site local   | Communication locale, commence par `FEC`                                                                       |
+| unicast<br>     | Unicast global          | `autres`                                                                                                       |
 
 # Routage IPV6 vs Routage IPV4
 

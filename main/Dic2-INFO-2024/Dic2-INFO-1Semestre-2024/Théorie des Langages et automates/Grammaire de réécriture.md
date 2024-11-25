@@ -1,6 +1,6 @@
 
 ---
-# Grammaire de réécriture
+
 
 ## Définition des Grammaires
 
@@ -68,3 +68,4 @@ Nous allons montrer que "`ababaa`" peut être généré par la grammaire en util
 Le mot "`ababaa`" appartient bien au langage **L**, car il peut être dérivé à partir de l'axiome **P** en appliquant les règles de production de la grammaire.
 
 ---
+[[Les expressions régulières]]

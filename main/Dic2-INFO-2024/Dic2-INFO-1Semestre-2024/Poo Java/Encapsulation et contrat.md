@@ -2,8 +2,6 @@
 
 ---
 
-# Java
-
 ## Encapsulation
 L'encapsulation permet de séparer chaque objet en deux parties : l'interface et l'implémentation (structure). Elle gère l'intégrité des objets :
 - **Interface** : Partie visible qui permet à un objet d'interagir avec d'autres objets. Les objets communiquent entre eux via l'interface.
