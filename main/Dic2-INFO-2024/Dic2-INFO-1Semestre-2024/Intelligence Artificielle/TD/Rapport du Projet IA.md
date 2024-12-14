@@ -1,5 +1,5 @@
 
-
+---
 ## Introduction
 Ce rapport documente les analyses et scripts réalisés dans le cadre du projet IA. Le contenu est structuré en sections distinctes avec des illustrations et des visualisations.
 

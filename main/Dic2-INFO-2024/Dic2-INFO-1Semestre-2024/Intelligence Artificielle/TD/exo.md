@@ -1,0 +1,29 @@
+
+---
+q(M,w3)= 0
+y(W3)= oui
+M(W3)= oui
+q(M,w4) = 0
+y(w4)= oui
+M(w4)= oui
+q(M,w5) = 0
+y(w5)= oui
+M(w5)= oui
+q(M,w6) = 0
+y(w6)= non
+M(w6)= non
+q(M,w7) = 0
+y(w7)= oui
+M(w7)= oui
+q(M,w8) = 0
+y(w8)= non
+M(w8)= non
+q(M,w9) = 0
+y(w9)= oui
+M(w9)= oui
+q(M,w10) = 0
+y(w10)= oui
+M(w10)= oui
+q(M,w11) = 0
+y(w11)= oui
+M(w11)= oui

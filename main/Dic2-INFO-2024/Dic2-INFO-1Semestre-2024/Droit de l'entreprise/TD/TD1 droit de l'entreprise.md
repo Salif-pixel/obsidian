@@ -1,6 +1,7 @@
 ---
 
 ---
+
 ---
 
 # Quelles sont les sources du droit des affaires ?
@@ -44,3 +45,77 @@ Le droit des affaires en zone OHADA vise à harmoniser les règles applicables a
    - Objectif : prévenir et lutter contre le blanchiment de capitaux et le financement du terrorisme, tout en respectant les engagements internationaux du Sénégal.
 
 Chaque source de droit a pour but de créer un cadre juridique sûr et harmonisé pour les affaires dans l’espace OHADA, facilitant ainsi les activités commerciales et financières entre les pays membres.
+Voici une version structurée et enrichie pour un rapport sur le commerce international et les actes uniformes OHADA, rédigée pour une présentation claire et concise.
+
+---
+
+##  le Commerce International 
+
+Le commerce international est l'échange de biens et de services entre des entités ou des individus situés dans des pays différents. Ce domaine repose sur des normes et des règles issues de sources nationales, communautaires et internationales, ainsi que sur des usages commerciaux.
+
+### 1. Sources du Droit du Commerce International
+
+### **1.1. Sources nationales**
+
+Les droits nationaux constituent la base fondamentale du droit du commerce international. Parmi les textes majeurs figure :
+
+- **La Convention de Vienne sur la Vente Internationale de Marchandises (CISG)** : Adoptée le 11 avril 1980, cette convention harmonise les règles applicables à la vente internationale de marchandises. Elle facilite les échanges entre entreprises en fixant des standards pour les contrats, notamment en matière de formation et d'exécution.
+
+---
+
+### **1.2. Sources communautaires**
+
+L'OHADA (Organisation pour l'Harmonisation en Afrique du Droit des Affaires) joue un rôle clé dans la régulation des activités économiques dans ses États membres. Les principaux textes applicables incluent :
+
+1. **L'Acte Uniforme sur le Droit de l'Arbitrage (2017)** :
+    
+    - Cet acte fixe les règles relatives à la résolution des conflits par arbitrage, favorisant un cadre stable et prévisible pour les échanges internationaux.
+    - Il garantit la reconnaissance des sentences arbitrales et la mise en œuvre de procédures efficaces dans les États membres.
+2. **Le Règlement d'Arbitrage de la CCJA (Cour Commune de Justice et d'Arbitrage, 2017)** :
+    
+    - Ce règlement organise les modalités de l’arbitrage devant la CCJA, une juridiction supranationale compétente pour les litiges commerciaux dans l’espace OHADA.
+
+---
+
+### **1.3. Sources internationales**
+
+Les normes internationales viennent compléter les cadres nationaux et communautaires. Elles incluent :
+
+- **Les règles de l'Organisation Mondiale du Commerce (OMC)**, qui régissent les échanges globaux.
+- **Les principes de la Lex Mercatoria**, un ensemble de pratiques et d'usages commerciaux transnationaux adoptés par les acteurs du commerce international.
+
+---
+
+### 2. Rôle des Usages et des Pratiques Professionnelles
+
+#### 2.1. La Lex Mercatoria
+
+La **Lex Mercatoria** représente un corpus non écrit de pratiques commerciales internationalement reconnues. Elle inclut :
+
+- Des principes généraux du commerce.
+- Des règles édictées par des organismes internationaux, comme les Incoterms définis par la Chambre de Commerce Internationale.
+
+#### 2.2. Importance des usages
+
+Les usages permettent une flexibilité dans les relations commerciales internationales en offrant des solutions pratiques adaptées à des situations spécifiques. Ces pratiques comblent les lacunes des législations nationales ou des conventions internationales.
+
+---
+
+### 3. L'Arbitrage dans le Commerce International
+
+L’arbitrage est une méthode privilégiée pour résoudre les litiges commerciaux internationaux. Il offre :
+
+- Une rapidité dans le règlement des différends.
+- Une neutralité par rapport aux juridictions nationales.
+- Une reconnaissance internationale des sentences arbitrales grâce à des conventions comme celle de New York (1958).
+
+L'OHADA, via son Acte Uniforme sur le Droit de l'Arbitrage et le règlement de la CCJA, renforce ce mécanisme en Afrique.
+
+---
+
+## Conclusion
+
+Le commerce international repose sur une interaction complexe entre normes nationales, communautaires, internationales et usages professionnels. L'OHADA joue un rôle majeur dans l'intégration économique africaine en garantissant une sécurité juridique et un cadre harmonisé pour les échanges internationaux. Par l'arbitrage, les entreprises bénéficient d'un instrument efficace pour résoudre leurs litiges, renforçant ainsi la confiance entre les acteurs commerciaux.
+
+---
+

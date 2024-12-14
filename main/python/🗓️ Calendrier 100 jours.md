@@ -1,7 +1,7 @@
 ---
 
 ---
-
+ 
 > **Objectif :** Accomplir une tâche chaque jour pendant 100 jours.    
 > **Date de début :** 2024-11-25  
 
@@ -15,22 +15,22 @@
 | ------------------------------------ | ------------------------------------------ | -------------------------------------- |
 | ~~1~~                                | ~~2024-11-25~~                             | ~~` Beginner `~~                       |
 | ~~2~~                                | ~~2024-11-25~~                             | ~~` Beginner `~~                       |
-| 3                                    | 2024-11-27                                 | [ Beginner ]                           |
-| 4                                    | 2024-11-28                                 | [ Beginner ]                           |
-| 5                                    | 2024-11-29                                 | [ Beginner ]                           |
-| 6                                    | 2024-11-30                                 | [ Beginner ]                           |
-| 7                                    | 2024-12-01                                 | [ Beginner ]                           |
-| 8                                    | 2024-12-02                                 | [ Beginner ]                           |
-| 9                                    | 2024-12-03                                 | [ Beginner ]                           |
-| 10                                   | 2024-12-04                                 | [ Beginner ]                           |
-| 11                                   | 2024-12-05                                 | [ Beginner ]                           |
-| 12                                   | 2024-12-06                                 | [ Beginner ]                           |
-| 13                                   | 2024-12-07                                 | [ Beginner ]                           |
-| 14                                   | 2024-12-08                                 | [   Beginner ]                         |
-| 15                                   | 2024-12-09                                 | [ Intermediate ]                       |
-| 16                                   | 2024-12-10                                 | [ Intermediate ]                       |
-| 17                                   | 2024-12-11                                 | [ Intermediate ]                       |
-| 18                                   | 2024-12-12                                 | [ Intermediate ]                       |
+| ~~3~~                                | ~~2024-11-26~~                             | ~~` Beginner `~~                       |
+| ~~4~~                                | ~~2024-11-26~~                             | ~~` Beginner `~~                       |
+| ~~5~~                                | ~~2024-11-27~~                             | ~~` Beginner `~~                       |
+| ~~6~~                                | ~~2024-11-27~~                             | ~~` Beginner `~~                       |
+| ~~7~~                                | ~~2024-11-27~~                             | ~~` Beginner `~~                       |
+| ~~8~~                                | ~~2024-11-27~~                             | ~~` Beginner `~~                       |
+| ~~9~~                                | ~~2024-11-28~~                             | ~~` Beginner `~~                       |
+| ~~10~~                               | ~~2024-11-28~~                             | ~~` Beginner `~~                       |
+| ~~11~~                               | ~~2024-11-28~~                             | ~~` Beginner `~~                       |
+| ~~12~~                               | ~~2024-11-28~~                             | ~~` Beginner `~~                       |
+| ~~13~~                               | ~~2024-11-29~~                             | ~~` Beginner `~~                       |
+| ~~14~~                               | ~~2024-11-29~~                             | ~~` Beginner `~~                       |
+| ~~15~~                               | ~~2024-11-29~~                             | ~~` Intermediate `~~                   |
+| ~~16~~                               | ~~2024-11-29~~                             | ~~` Intermediate `~~                   |
+| ~~17~~                               | ~~2024-11-29~~                             | ~~` Intermediate `~~                   |
+| 18                                   | 2024-12-01                                 | [ Intermediate ]                       |
 | 19                                   | 2024-12-13                                 | [ Intermediate ]                       |
 | 20                                   | 2024-12-14                                 | [ Intermediate ]                       |
 | 21                                   | 2024-12-15                                 | [ Intermediate ]                       |
@@ -113,3 +113,10 @@
 | 98                                   | 2025-03-02                                 | [ professional ]                       |
 | 99                                   | 2025-03-03                                 | [ professional ]                       |
 | 100                                  | 2025-03-04                                 | [ professional ]                       |
+```sql
+SELECT u."department",u."firstName",u."lastName",u."email",u."level"  
+FROM "users" u  
+LEFT JOIN "Reservation" r ON r."userId" = u."id"  
+WHERE r."userId" IS NULL AND u."level" = 'CINQUIEME_ANNEE' AND u."password" is Not  NULL
+
+```

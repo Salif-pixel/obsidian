@@ -23,13 +23,13 @@
 
 ### Classes d'adressage IPv4
 
-| Classe       | Plage d’adresses         | Réseau                 | Interface               | Nombre d'identifiants unicast   |
-|--------------|---------------------------|------------------------|-------------------------|---------------------------------|
-| Classe A     | `0 <= X <= 127`          | X (Réseau) / 0.0.0 et 255.255.255 | Y.Z.K (Interface)     | 2^24 - 2                       |
-| Classe B     | `128 <= X <= 191`        | X.Y (Réseau) / 0.0 et 255.255 | Z.K (Interface)       | 2^16 - 2                       |
-| Classe C     | `192 <= X <= 223`        | X.Y.Z (Réseau) / 0 et 255   | K (Interface)           | 2^8 - 2                        |
-| Classe D     | `224 <= X <= 239`        | Multicast              | -                       | -                               |
-| Classe E     | `240 <= X <= 255`        | Expérimental           | -                       | -                               |
+| Classe   | Plage d’adresses  | Réseau                            | Interface         | Nombre d'identifiants unicast |
+| -------- | ----------------- | --------------------------------- | ----------------- | ----------------------------- |
+| Classe A | `0 <= X <= 127`   | X (Réseau) / 0.0.0 et 255.255.255 | Y.Z.K (Interface) | 2^24 - 2                      |
+| Classe B | `128 <= X <= 191` | X.Y (Réseau) / 0.0 et 255.255     | Z.K (Interface)   | 2^16 - 2                      |
+| Classe C | `192 <= X <= 223` | X.Y.Z (Réseau) / 0 et 255         | K (Interface)     | 2^8 - 2                       |
+| Classe D | `224 <= X <= 239` | Multicast                         | -                 | -                             |
+| Classe E | `240 <= X <= 255` | Expérimental                      | -                 | -                             |
 
 ---
 

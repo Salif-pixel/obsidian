@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"ddec55295f157be6","type":"text","text":"saisir une lettre (attention vous avez x chances)\ny(nombre de lettre)\n\nsoit mot le mot a devine","x":-225,"y":-580,"width":405,"height":180,"color":"6"},
+		{"id":"e97de86b0a2cff76","type":"text","text":"x (ne change pas)\ny=y+1","x":280,"y":-190,"width":250,"height":60,"color":"4"},
+		{"id":"8dca5aaf82cd8240","type":"text","text":"x=x-1\ny ( ne change pas)","x":-540,"y":-210,"width":250,"height":60,"color":"2"},
+		{"id":"f36686ac5ae1ace3","type":"text","text":"pendu","x":-350,"y":-40,"width":250,"height":60,"color":"1"},
+		{"id":"916e53ca38cfff94","type":"text","text":"Gagnee","x":55,"y":-40,"width":250,"height":60,"color":"3"},
+		{"id":"973af984fb71c641","type":"text","text":"    \n     condition","x":-143,"y":-290,"width":242,"height":110,"color":"5"}
+	],
+	"edges":[
+		{"id":"fbcf7e897dd61dee","fromNode":"ddec55295f157be6","fromSide":"bottom","toNode":"973af984fb71c641","toSide":"top"},
+		{"id":"325cfd12b3d14095","fromNode":"973af984fb71c641","fromSide":"right","toNode":"e97de86b0a2cff76","toSide":"top","color":"4","label":"bonne réponse"},
+		{"id":"61a1dac914d7c787","fromNode":"973af984fb71c641","fromSide":"left","toNode":"8dca5aaf82cd8240","toSide":"top","color":"2","label":"mauvaise réponse"},
+		{"id":"5214f67033d27f44","fromNode":"e97de86b0a2cff76","fromSide":"right","toNode":"ddec55295f157be6","toSide":"right","label":"retour"},
+		{"id":"2c4e2a5870c64f81","fromNode":"8dca5aaf82cd8240","fromSide":"left","toNode":"ddec55295f157be6","toSide":"left","label":"retour"},
+		{"id":"f4e3d4ec98368f76","fromNode":"973af984fb71c641","fromSide":"bottom","toNode":"916e53ca38cfff94","toSide":"top"},
+		{"id":"6a95b06650548acc","fromNode":"973af984fb71c641","fromSide":"bottom","toNode":"f36686ac5ae1ace3","toSide":"top"}
+	]
+}

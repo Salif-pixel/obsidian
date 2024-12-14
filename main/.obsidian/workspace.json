@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2537ea60e7096552",
+        "id": "5fd78bfbfe900266",
         "type": "tabs",
         "children": [
           {
-            "id": "140b30be5dbd4c1a",
+            "id": "8d619142ef730ff5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/🗓️ Calendrier 100 jours.md",
+                "file": "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Droit de l'entreprise/Chapitre I L'entreprise individuelle et unité de patrimoine/L'entreprise individuelle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🗓️ Calendrier 100 jours"
-            }
-          },
-          {
-            "id": "5ebe4acad95e01b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "python/🗓️ Calendrier 100 jours.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "🗓️ Calendrier 100 jours"
+              "title": "L'entreprise individuelle"
             }
           }
         ]
@@ -189,46 +175,48 @@
       "gpt3-notes:GPT-3 Notes": false
     }
   },
-  "active": "140b30be5dbd4c1a",
+  "active": "8d619142ef730ff5",
   "lastOpenFiles": [
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Big Data/Intro au Big Data.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Big Data/Les Différents domaines.md",
-    "python/🗓️ Calendrier 100 jours.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Intelligence Artificielle/Introduction à l'Intelligence Artificielle.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Intelligence Artificielle/TD/Quelques notes.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Théorie des Langages et automates/Les expressions régulières.md",
-    "python",
-    "Sans titre",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Théorie des Langages et automates/Présentation des automates finis.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Théorie des Langages et automates/Théorie des Langages et Reconnaisseurs.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Théorie des Langages et automates/Grammaire de réécriture.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Droit de l'entreprise/Chapitre I L'entreprise individuelle et unité de patrimoine.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Droit de l'entreprise/Chapitre I L'entreprise individuelle et unité de patrimoine/Le fonds de commerce.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Droit de l'entreprise/TD/TD2 droit de l'entreprise.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Droit de l'entreprise/Chapitre I L'entreprise individuelle et unité de patrimoine/L'entreprise individuelle.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Droit de l'entreprise/TD/TD3 droit de l'entreprise.md",
     "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Droit de l'entreprise/Les statuts des différentes organisations.md",
     "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Droit de l'entreprise/Introduction au droit de l'entreprise.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Big Data/Les Différents domaines.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Big Data/Intro au Big Data.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/UML/SOMMAIRE.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/devpersonnel/Teranga Care - Rapport de Création d'Entreprise.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Sans titre.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/devpersonnel",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/Routage Algo de routage Protocole de routage.md",
     "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Intelligence Artificielle/TD/Rapport du Projet IA.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Intelligence Artificielle/TD/Note.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Intelligence Artificielle/TD/income level.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Intelligence Artificielle/TD/car ownership.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/SGBD/Rappels SQL.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/SGBD/Optimisation de requêtes.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Droit de l'entreprise/TD/TD1 droit de l'entreprise.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Droit de l'entreprise/Sans titre.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/TFTP.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Intelligence Artificielle/TD/TP-IA-Optimisation Salif Biaye DIC2 (GLSI).md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Intelligence Artificielle/TD/Sans titre.md",
     "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Programmation Système et réseau/Processus.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Poo Java/Surdéfinition.md",
+    "python/🗓️ Calendrier 100 jours.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Intelligence Artificielle/Introduction à l'Intelligence Artificielle.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Théorie des Langages et automates/Les expressions régulières.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Théorie des Langages et automates/Grammaire de réécriture.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Théorie des Langages et automates/TD/TD1 Introduction à la théorie des langages Salif Biaye DIC2 (GLSI).md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Droit de l'entreprise/TD/TD1 droit de l'entreprise.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Droit de l'entreprise/Chapitre I/Sans titre",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Poo Java/Poo avancée/Thread.md",
     "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Poo Java/Poo avancée/Classes internes.md",
     "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Poo Java/Poo avancée/Gestion des Exceptions.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Poo Java/TD/Rapport Classe interne local et classe externe (dans un autre fichier).md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Poo Java/Poo avancée/Programmation graphique.md",
+    "python/Hangman game.canvas",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Droit de l'entreprise/Chapitre I L'entreprise individuelle et unité de patrimoine",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/analyse numerique",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/UML",
+    "python/Solution+-+Hangman+Flowchart+1.png",
     "Sans titre.canvas",
+    "python",
+    "Sans titre",
     "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/SGBD",
     "Sans titre 1.canvas",
     "Sans titre 2.canvas",
     "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Théorie des Langages et automates/TD",
-    "Dic2-INFO-2024/Sans titre 1",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Poo Java/Poo avancée",
-    "Springboot",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Intelligence Artificielle/TD",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Poo Java/TD"
+    "Dic2-INFO-2024/Sans titre 1"
   ]
 }

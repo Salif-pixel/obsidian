@@ -1,4 +1,4 @@
-# SE
+
 
 ## La Mémoire
 
@@ -60,13 +60,13 @@
 
 ## Formules liées aux i-nodes
 
-| Description             | Formule                                                                                                  |
-| ----------------------- | -------------------------------------------------------------------------------------------------------- |
-| Nombre de blocs         | $$ NB_d = \frac{T_F}{T_{B_d}} $$                                                                         |
-| Condition sur la taille | $$ T_F \leq 12 \times T_{B_d} $$                                                                         |
-| Calcul de h             | $$ h = \frac{T_{B_d}}{T_{@}} $$                                                                          |
-| Accès indirect simple   | $$ T_F \leq 12 \times T_{B_d} + h \times T_{B_d} $$                                                      |
-| Accès indirect double   | $$ T_F \leq 12 \times T_{B_d} + h \times T_{B_d} + h^2 \times T_{B_d} $$                                 |
-| Accès indirect triple   | $$ T_{\text{max}} \leq 12 \times T_{B_d} + h \times T_{B_d} + h^2 \times T_{B_d} + h^3 \times T_{B_d} $$ |
-| Taille max en Ext4      | $$ T_{\text{max}} = 12 \times T_{B_d} + h \times T_{B_d} + h^2 \times T_{B_d} + h^3 \times T_{B_d} $$    |
-|                         |                                                                                                          |
+| Description             | Formule                                                                                                  |     |
+| ----------------------- | -------------------------------------------------------------------------------------------------------- | --- |
+| Nombre de blocs         | $$ NB_d = \frac{T_F}{T_{B_d}} $$                                                                         |     |
+| Condition sur la taille | $$ T_F \leq 12 \times T_{B_d} $$                                                                         |     |
+| Calcul de h             | $$ h = \frac{T_{B_d}}{T_{@}} $$                                                                          |     |
+| Accès indirect simple   | $$ T_F \leq 12 \times T_{B_d} + h \times T_{B_d} $$                                                      |     |
+| Accès indirect double   | $$ T_F \leq 12 \times T_{B_d} + h \times T_{B_d} + h^2 \times T_{B_d} $$                                 |     |
+| Accès indirect triple   | $$ T_{\text{max}} \leq 12 \times T_{B_d} + h \times T_{B_d} + h^2 \times T_{B_d} + h^3 \times T_{B_d} $$ |     |
+| Taille max en Ext4      | $$ T_{\text{max}} = 12 \times T_{B_d} + h \times T_{B_d} + h^2 \times T_{B_d} + h^3 \times T_{B_d} $$    |     |
+|                         |                                                                                                          |     |

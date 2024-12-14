@@ -69,3 +69,4 @@ Le mot "`ababaa`" appartient bien au langage **L**, car il peut être dérivé �
 
 ---
 [[Les expressions régulières]]
+

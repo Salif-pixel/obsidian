@@ -30,7 +30,7 @@ Pour beaucoup plus de clarté nous allons d'abord étudier:
 ## Remarque
 >En droit le patrimoine de la personne représente l'ensemble des biens (Actifs)  et des dettes (Passifs)
 	le commerçant est en déconfiture si son Passif > a son Actif il est donc en faillite
-	le droit d'auteur est le droit de propriete intellectuelle qui comprends le droit de propriete littéraire 
-	artistique et le droit de propriete industrielle
+	le droit d'auteur est le droit de propriété intellectuelle qui comprends le droit de propriété littéraire 
+	artistique et le droit de propriété industrielle
 	
-[[Chapitre I L'entreprise individuelle et unité de patrimoine]]
+[[L'entreprise individuelle]]
