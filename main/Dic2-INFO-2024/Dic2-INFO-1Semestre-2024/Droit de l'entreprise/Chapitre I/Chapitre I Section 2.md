@@ -1,4 +1,4 @@
-
+# Chapitre I L'entreprise individuelle et unité de patrimoine Section 2 Le fonds de commerce
 ---
 
 le fond de commerce constitue l'essentiel du patrimoine du commerçant ce fond de commerce comprend un certains nombre d'éléments (`Paragraphe 1`)
@@ -38,7 +38,7 @@ Il s'agit de :
   le droit de propriété industriel confère a son titulaire un droit exclusif d'exploitation d'une invention ou d'une  découverte. donc
   ce droit est `un monopole d'exploitation` .
   
-- Le droit au renouvellement du bail commercial  [[TD3 droit de l'entreprise|voir le td sur le bail a usage commercial]]
+- Le droit au renouvellement du bail commercial  [[TD droit de l'entreprise|voir le td sur le bail a usage commercial]]
 
 
 ## Paragraphe 2 : la protection du fonds de commerce
@@ -51,8 +51,25 @@ Elle est liée a la mise ne jeux de la responsabilité civile  et pénale  et da
 Elle résulte de l'introduction de close de non concurrence et de close d'exclusivité dans les contrats.
 elle est fondée essentiellement sur les principes de la responsabilités civiles.
 La protection est assurée par l'action en concurrence déloyale ou illicite 
-
+ 
 
 ## Paragraphe 3 : les opérations sur fonds de commerce
 Le fonds de commerce peut être affecté de trois opérations juridique principale :
-la vente, la location gérance et le nantissement pour se procurer du crédit par contre le bail commercial permet au commerçant d'avoir un toit pour exercer son activité commerciale 
+la vente, la location gérance et le nantissement pour se procurer du crédit par contre le bail commercial permet au commerçant d'avoir un toit pour exercer son activité commerciale  mais avant d'étudier ces différentes opérations nous allons parler d'abord de la théorie des contrats
+
+### -A La vente ou la session du fonds de commerce
+c'est une opération qui entraine la dépossession du propriétaire du fonds c'est a dire ce dernier est dessaisis de son fonds au profit d'une autre personne l'acquéreur . C'est la raison pour laquelle on appelle cette opération session du fonds de commerce  ou la session de créance.
+Ce contrat obéit aux règles générales applicable a tout contrat . mais il y a des règles spécifiques contenues dans l'acte uniforme de l' OHADA et qui tendent  à protéger les droits du vendeur, ceux des créanciers et ceux de l'acquéreur du fonds.
+
+### -B La location gérance
+L'acte uniforme défini la location gérance comme étant : *la convention par laquelle le propriétaire du fonds de commerce, personne physique ou personne moral en concède la location a un gérant personne physique ou personne moral et qui l'exploite a ses risques et périls moyennant  le payement d'un loyer appelé redevance*. Face aux risques d'insolvabilité réel du débiteur la lois intervient pour clarifier les rapports entre le locataire gérant d'une part et d'autre part leur relation durant l'exécution et l'expiration de ce contrat de location gérance.
+La location gérance est une exploitation indirecte du fonds de commerce par opposition a l'exploitation directe par le propriétaire lui même
+
+### -C Le nantissement du fonds de commerce
+C'est une opération qui n'entraine pas la dépossession du propriétaire.
+*Le nantissement est un contrat par lequel le débiteur (le propriétaire du fond ) consent a son créancier une garantie dans l'assiette porte sur le fonds de commerce*.
+Le nantissement doit être publié au registre du commerce et du crédit mobilier.
+Le nantissement est une sureté réelle par opposition au cautionnement et a l'avale qui sont des suretés personnels.
+Ce contrat est réglementé par l'acte uniforme  de l'OHADA portant organisation des suretés.
+
+[[Chapitre II  Intro]]

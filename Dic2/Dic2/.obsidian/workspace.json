@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "58e502d7572621cf",
+    "id": "0c98b48e3b756d46",
     "type": "split",
     "children": [
       {
-        "id": "506d9316762bec00",
+        "id": "8c29fa9c54a70a35",
         "type": "tabs",
         "children": [
           {
-            "id": "cf105d702678917f",
+            "id": "cbb5fb164bf79d35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/🗓️ Calendrier 100 jours.md",
+                "file": "Bienvenue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🗓️ Calendrier 100 jours"
+              "title": "Bienvenue"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a4605489260b6ede",
+    "id": "b47df0164aff3822",
     "type": "split",
     "children": [
       {
-        "id": "24d7b00b391626d5",
+        "id": "5ff796f3e0ef73c3",
         "type": "tabs",
         "children": [
           {
-            "id": "e40336f0e9742e9f",
+            "id": "6f83afa72a9a72c1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +47,7 @@
             }
           },
           {
-            "id": "ad09efdc347478bc",
+            "id": "eef994dce5ba2344",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -64,7 +64,7 @@
             }
           },
           {
-            "id": "9392d8d2f9dc1757",
+            "id": "12838da476fdcef9",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -80,19 +80,20 @@
     "width": 300
   },
   "right": {
-    "id": "8e690bfaa555cfc4",
+    "id": "1de90a9d006abbd8",
     "type": "split",
     "children": [
       {
-        "id": "4ce8690fef78165f",
+        "id": "dcf18d2105bacc8f",
         "type": "tabs",
         "children": [
           {
-            "id": "9475825da97abee5",
+            "id": "6673adc19a2cd741",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Bienvenue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,24 +103,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétroliens"
+              "title": "Rétrolien pour Bienvenue"
             }
           },
           {
-            "id": "8c9720b8b831036d",
+            "id": "2a408e60212320ed",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Bienvenue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants"
+              "title": "Liens sortants de Bienvenue"
             }
           },
           {
-            "id": "a754ef9a433c7fa0",
+            "id": "73196af51f711e19",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,13 +134,15 @@
             }
           },
           {
-            "id": "2da620313424cb18",
+            "id": "0e7ef42f2470bf2b",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Bienvenue.md"
+              },
               "icon": "lucide-list",
-              "title": "Plan"
+              "title": "Plan de Bienvenue"
             }
           }
         ]
@@ -158,17 +162,8 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "cf105d702678917f",
+  "active": "cbb5fb164bf79d35",
   "lastOpenFiles": [
-    "Sans titre.canvas",
-    "Bienvenue.md",
-    "python/🗓️ Calendrier 100 jours.md",
-    "python/Solution+-+Hangman+Flowchart+1.png",
-    "python/Hangman game.canvas",
-    "NextJs/Sans titre.md",
-    "Springboot",
-    "python",
-    "NextJs",
-    "Flutter"
+    "Bienvenue.md"
   ]
 }

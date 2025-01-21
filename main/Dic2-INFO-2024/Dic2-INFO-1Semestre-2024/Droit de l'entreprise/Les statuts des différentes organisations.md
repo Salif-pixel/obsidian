@@ -33,4 +33,4 @@ Pour beaucoup plus de clarté nous allons d'abord étudier:
 	le droit d'auteur est le droit de propriété intellectuelle qui comprends le droit de propriété littéraire 
 	artistique et le droit de propriété industrielle
 	
-[[L'entreprise individuelle]]
+[[Chapitre I Section 1]]

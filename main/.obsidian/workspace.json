@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5fd78bfbfe900266",
+        "id": "ec03b7ac17abef1d",
         "type": "tabs",
         "children": [
           {
-            "id": "8d619142ef730ff5",
+            "id": "4e5bd0e40cc8e0aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Droit de l'entreprise/Chapitre I L'entreprise individuelle et unité de patrimoine/L'entreprise individuelle.md",
+                "file": "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Droit de l'entreprise/Chapitre I/Chapitre I Section 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L'entreprise individuelle"
+              "title": "Chapitre I Section 2"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Rapport",
+                "query": "tag:#Paragraphe",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python/🗓️ Calendrier 100 jours.md",
+                "file": "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Poo Java/TD/Rapport  Implementation des classes Point et PointColore en Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour 🗓️ Calendrier 100 jours"
+              "title": "Rétrolien pour Rapport  Implementation des classes Point et PointColore en Java"
             }
           },
           {
@@ -175,48 +175,57 @@
       "gpt3-notes:GPT-3 Notes": false
     }
   },
-  "active": "8d619142ef730ff5",
+  "active": "4e5bd0e40cc8e0aa",
   "lastOpenFiles": [
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Droit de l'entreprise/Chapitre I L'entreprise individuelle et unité de patrimoine/Le fonds de commerce.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Droit de l'entreprise/TD/TD2 droit de l'entreprise.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Droit de l'entreprise/Chapitre I L'entreprise individuelle et unité de patrimoine/L'entreprise individuelle.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Droit de l'entreprise/TD/TD3 droit de l'entreprise.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Droit de l'entreprise/Les statuts des différentes organisations.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Droit de l'entreprise/Introduction au droit de l'entreprise.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Big Data/Les Différents domaines.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Big Data/Intro au Big Data.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/UML/SOMMAIRE.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/devpersonnel/Teranga Care - Rapport de Création d'Entreprise.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Sans titre.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/devpersonnel",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/Routage Algo de routage Protocole de routage.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Intelligence Artificielle/TD/Rapport du Projet IA.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Intelligence Artificielle/TD/TP-IA-Optimisation Salif Biaye DIC2 (GLSI).md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Intelligence Artificielle/TD/Sans titre.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Programmation Système et réseau/Processus.md",
-    "python/🗓️ Calendrier 100 jours.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Intelligence Artificielle/Introduction à l'Intelligence Artificielle.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Théorie des Langages et automates/Les expressions régulières.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Théorie des Langages et automates/Grammaire de réécriture.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Théorie des Langages et automates/TD/TD1 Introduction à la théorie des langages Salif Biaye DIC2 (GLSI).md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Droit de l'entreprise/Chapitre I/Chapitre I Section 1.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Droit de l'entreprise/Chapitre II/Chapitre II Section 1.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Droit de l'entreprise/Chapitre II/Chapitre II  Intro.md",
+    "Trouvons la formule a partir du graphe.md",
+    "Sans titre 1.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/Configuration de FreeRADIUS avec LDAP.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/Configuration d'un Service FTP avec Kerberos.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/Configuration d’un Serveur PXE sur Ubuntu.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/Configuration d'un service  SSH avec Kerberos.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/Configuration de FreeRADIUS avec MySQL.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Droit de l'entreprise/TD/Les droits qui protègent les créateurs de bases de données.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Droit de l'entreprise/TD/Les droits d’auteur et les droits voisins des droits d'auteur.md",
     "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Droit de l'entreprise/TD/TD1 droit de l'entreprise.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Droit de l'entreprise/Chapitre I/Sans titre",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Poo Java/Poo avancée/Thread.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Poo Java/Poo avancée/Classes internes.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Poo Java/Poo avancée/Gestion des Exceptions.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Poo Java/Poo avancée/Programmation graphique.md",
-    "python/Hangman game.canvas",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Droit de l'entreprise/Chapitre I L'entreprise individuelle et unité de patrimoine",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/analyse numerique",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/UML",
-    "python/Solution+-+Hangman+Flowchart+1.png",
-    "Sans titre.canvas",
-    "python",
-    "Sans titre",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/SGBD",
-    "Sans titre 1.canvas",
-    "Sans titre 2.canvas",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Droit de l'entreprise/TD/TD2 droit de l'entreprise.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Intelligence Artificielle/Rapport TP-1.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Intelligence Artificielle/Rapport sur le projet de détection de malware avec Streamlit Salif Biaye.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Intelligence Artificielle/Rapport de Comparaison des Méthodes de Clustering Salif Biaye.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Intelligence Artificielle/Introduction à l'Intelligence Artificielle.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Intelligence Artificielle/TD/Sans titre.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Intelligence Artificielle/TD/TP-IA-Optimisation Salif Biaye DIC2 (GLSI).md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Intelligence Artificielle/TD/Rapport du Projet IA.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Intelligence Artificielle/TD/car ownership.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/Fragmentation - segmentation - sécurité.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/Configuration de NFS avec Kerberos.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Poo Java/Poo avancée/Thème.md",
+    "Pasted image 20250112220256.png",
+    "Pasted image 20250112220230.png",
+    "Pasted image 20250112220147.png",
+    "Pasted image 20250112220112.png",
+    "Pasted image 20250112220036.png",
+    "Pasted image 20250112220014.png",
+    "Pasted image 20250112215928.png",
+    "Pasted image 20250112215852.png",
+    "Pasted image 20250112215726.png",
+    "Pasted image 20250112215639.png",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Droit de l'entreprise/TD/TD3  la Fusion et la Scission en Droit.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Signal/TD/Td1",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Signal/TD",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Droit de l'entreprise/Chapitre II",
     "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Théorie des Langages et automates/TD",
-    "Dic2-INFO-2024/Sans titre 1"
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Poo Java/TD",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Poo Java/Poo avancée",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Programmation Système et réseau/TD",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Intelligence Artificielle/TD",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Droit de l'entreprise/TD",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Droit de l'entreprise/Chapitre I",
+    "python/Hangman game.canvas",
+    "Sans titre.canvas",
+    "Sans titre 1.canvas",
+    "Sans titre 2.canvas"
   ]
 }

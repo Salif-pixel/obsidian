@@ -15,9 +15,9 @@
 
 ### Nom de l’entreprise : `Teranga Care`
 
-### Slogan : _Prenez soin de vous simplement_
+### Slogan : _Teranga Care notre promesse_
 
-### Logo : _À créer_
+### Logo : ![[logo.jpeg]]
 
 ---
 
@@ -59,13 +59,18 @@
 
 ## 5. **Objectifs**
 
+### **Objectif général :**
+Développer et étendre les services de `Teranga Care` pour offrir un accompagnement holistique en santé alimentaire et psychologique, en combinant innovation technologique et expertise humaine.
+
+### **Objectifs spécifiques :**
+
 1. **À court terme :**
-    - Lancer une application mobile pour l'accompagnement alimentaire et psychologique.
-    - Mettre en place des consultations avec des experts (nutritionnistes, psychologues).
+    - Concevoir et lancer une application mobile dédiée à l’accompagnement alimentaire et psychologique.
+    - Organiser des consultations avec des experts, tels que des nutritionnistes et des psychologues.
 2. **À moyen terme :**
-    - Développer une montre connectée pour mesurer le stress et donner des recommandations.
+    - Développer une montre connectée capable de mesurer le stress et de fournir des recommandations personnalisées.
 3. **À long terme :**
-    - Étendre les services de `Teranga Care` à l’international.
+    - Étendre les services de `Teranga Care` à l’échelle internationale pour toucher un public plus large.
 
 ---
 
@@ -93,19 +98,19 @@
 
 ### Organigramme :
 
-1. **Directeur Général (CEO) :** Membre 1
+1. **Directeur Général (CEO) :** Salif Biaye
     - Vision globale et stratégie d’entreprise.
-2. **Responsable des Opérations (COO) :** Membre 2
+2. **Responsable des Opérations (COO) :** Ndeye Astou Diagouraga
     - Gestion quotidienne des services et logistique.
-3. **Responsable Marketing et Communication :** Membre 3
+3. **Responsable Marketing et Communication :** Elhadj Saloum cissé
     - Stratégie marketing et présence sur les réseaux sociaux.
-4. **Directeur Technique (CTO) :** Membre 4
+4. **Directeur Technique (CTO) :** Mouhamadou Tidiane Seck
     - Développement de l’application et des montres connectées.
-5. **Responsable Financier (CFO) :** Membre 5
+5. **Responsable Financier (CFO) :** Ouleymatou Sadiya Cissé
     - Gestion du budget et des finances.
-6. **Responsable RH :** Membre 6
+6. **Responsable (RH) :** Souleymane Diop
     - Gestion des talents et des relations internes.
-7. **Responsable Recherche et Développement (R&D) :** Membre 7
+7. **Responsable Recherche et Développement (R&D) :** Pape Moussa mbengue
     - Innovation dans les produits et services.
 
 ---

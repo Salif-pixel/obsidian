@@ -1,4 +1,4 @@
-
+# Chapitre I L'entreprise individuelle et unité de patrimoine Section1 L'entreprise individuelle
 ---
   
 Créer une entreprise seul , c'est jouer son patrimoine . L'entrepreneur individuel encore appelé le commerçant personne physique
@@ -19,7 +19,7 @@ Selon l'acte `uniforme de l'OHADA` portant sur le droit commercial  général  e
  >- un casier judiciaire vierge
  >- Photocopie légalisée de la carte d'identité
 
-L'acte uniforme  portant sur le droit commercial général énumère les activités qui constituent des [[L'entreprise individuelle#Paragraphe 1 Les actes de commerces| actes de commerces]] `(Paragraphe1)` ensuite ==l'OHADA== règlemente `(Paragraphe2)` [[L'entreprise individuelle#Paragraphe 2 l'accès a la profession commerciale| l'accès a la profession]]  commerciale enfin le commerçant dispose  d'un certains nombres de droits ou prérogatives et il est soumis a des obligations .
+L'acte uniforme  portant sur le droit commercial général énumère les activités qui constituent des [[Chapitre I Section 1#Paragraphe 1 Les actes de commerces| actes de commerces]] `(Paragraphe1)` ensuite ==l'OHADA== règlemente `(Paragraphe2)` [[Chapitre I Section 1#Paragraphe 2 l'accès a la profession commerciale| l'accès a la profession]]  commerciale enfin le commerçant dispose  d'un certains nombres de droits ou prérogatives et il est soumis a des obligations .
 
 ### Paragraphe 1:  Les actes de commerces
 L'acte uniforme distingue :
@@ -181,4 +181,4 @@ quinquennale.
 En effet , le commerçant locataire des locaux où il exerce son activité commerciale est spécialement bien protégée contre
 les expulsions arbitraires (voir TD le contrat de bail commercial).
 
-[[Le fonds de commerce]]
+[[Chapitre I Section 2]]

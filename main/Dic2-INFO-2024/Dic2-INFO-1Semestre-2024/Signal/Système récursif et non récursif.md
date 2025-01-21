@@ -38,10 +38,11 @@
 - **Définition d'un système** : Un ensemble cohérent d'éléments interdépendants.
 - **Système discret** : Prend en entrée un signal discret et la sortie est également un signal discret.
 - **Système continu** : Fonctionne de la même manière, mais avec des signaux continus.
-- **Système linéaire** : Invariant dans le temps.
-- **Système invariant** : 
+- **Système linéaire** : 
   - **Additif** : La somme des signaux à l'entrée reste la même à la sortie.
   - **Homogène** : Multiplier un signal à l'entrée par un facteur équivaut à multiplier la sortie par le même facteur.
+- **Système invariant** : le décalage a l'entrée est la même a la sortie
+
 
 ---
 
