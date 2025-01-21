@@ -40,8 +40,8 @@
 | ~~25~~                               | ~~2024-12-24~~                             | ~~` Intermediate `~~                   |
 | ~~26~~                               | ~~2024-12-26~~                             | ~~` Intermediate `~~                   |
 | ~~27~~                               | ~~2024-12-26~~                             | ~~` Intermediate `~~                   |
-| 28                                   | 2024-12-22                                 | [ Intermediate ]                       |
-| 29                                   | 2024-12-23                                 | [ Intermediate ]                       |
+| ~~28~~                               | ~~2024-01-21~~                             | ~~` Intermediate `~~                   |
+| ~~29~~                               | ~~2024-01-21~~                             | ~~` Intermediate `~~                   |
 | 30                                   | 2024-12-24                                 | [ Intermediate ]                       |
 | 31                                   | 2024-12-25                                 | [ Intermediate ]                       |
 | 32                                   | 2024-12-26                                 | [ Intermediate ]                       |
