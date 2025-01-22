@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/Configuration d'un service  SSH avec Kerberos.md",
+                "file": "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Poo Java/Organisation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Configuration d'un service  SSH avec Kerberos"
+              "title": "Organisation"
             }
           }
         ]
@@ -151,8 +151,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Le module complémentaire n'est plus actif."
             }
           }
         ]
@@ -177,12 +177,13 @@
   },
   "active": "4e5bd0e40cc8e0aa",
   "lastOpenFiles": [
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/Configuration d'un service  SSH avec Kerberos.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Poo Java/Organisation.md",
     "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/Configuration de FreeRADIUS avec LDAP.md",
     "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/Configuration d'un Service FTP avec Kerberos.md",
     "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/Configuration de FreeRADIUS avec MySQL.md",
     "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/Fragmentation - segmentation - sécurité.md",
     "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/Configuration de NFS avec Kerberos.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/Configuration d'un service  SSH avec Kerberos.md",
     "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/Configuration d’un Serveur PXE sur Ubuntu.md",
     "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/Routage Algo de routage Protocole de routage.md",
     "Pasted image 20250112220112.png",
@@ -212,7 +213,6 @@
     "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Intelligence Artificielle/TD/Sans titre.md",
     "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Intelligence Artificielle/TD/TP-IA-Optimisation Salif Biaye DIC2 (GLSI).md",
     "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Intelligence Artificielle/TD/Rapport du Projet IA.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Intelligence Artificielle/TD/car ownership.md",
     "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Signal/TD/Td1",
     "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Signal/TD",
     "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Droit de l'entreprise/Chapitre II",
