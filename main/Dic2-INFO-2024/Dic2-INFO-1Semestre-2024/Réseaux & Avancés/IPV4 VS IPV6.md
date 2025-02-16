@@ -61,9 +61,9 @@
 
 # Routage IPV6 vs Routage IPV4
 
-| Protocole     | IPv4         | IPv6                |
-|---------------|--------------|---------------------|
-| Protocoles    | BGP, OSPF    | BGP4+, OSPFv6      |
-| En-tête       | Variable     | Fixe, simplifiée    |
-| Fragmentation | Possible     | Pas possible        |
-| Auto-config   | non implémentée | implémentée     |
+| Protocole     | IPv4            | IPv6             |
+| ------------- | --------------- | ---------------- |
+| Protocoles    | BGP, OSPF       | BGP4+, OSPFv6    |
+| En-tête       | Variable        | Fixe, simplifiée |
+| Fragmentation | Possible        | Pas possible     |
+| Auto-config   | non implémentée | implémentée      |

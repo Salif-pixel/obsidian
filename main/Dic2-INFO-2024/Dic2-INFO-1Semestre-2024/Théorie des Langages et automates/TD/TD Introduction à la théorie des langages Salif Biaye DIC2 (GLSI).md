@@ -1,6 +1,7 @@
 
 ---
-# Exercice1: Alphabets et mots
+# TD1 
+## Exercice1: Alphabets et mots
 - Comptons le nombre d'occurrences des lettres a et b dans les mots suivants
 
 > `aabg,jdd,titi,babc,a^3cbbca`.
@@ -65,16 +66,11 @@
 3. $$Σ_2^3= \{ddd, eee,fff,dde,ddf,def,ded,fed,fef,eed,eef,edf,efd,ffe,ffd,fed,fde,...\}$$
 4. $$Σ_2^1 U Σ_3^2= \{df, e,bb,bcd,cdb,cdcd\}$$
 5. $$(Σ_1 U Σ_2)^2= \{aa,ab,ba,bb,ad,ae,af,bd,be,bf,ea,da,fa,db,eb,fb,ff,dd,ee,fe,ef,fd,df,de,ed\}$$
-Merci pour la photo. Je vais analyser l'image et corriger les exercices en fonction de son contenu. Je rédigerai ensuite les corrections en format Markdown pour Obsidian.
-
-Je commence immédiatement.
-
-Voici la correction des exercices en format Markdown pour Obsidian :
 
 ---
 
 
-# Exercice 2 : Langages
+## Exercice 2 : Langages
 
 Soit l’alphabet Σ={a,b} Donnez une description des langages suivants et quelques exemples de mots.
 
@@ -106,7 +102,7 @@ Soit l’alphabet Σ={a,b} Donnez une description des langages suivants et quelq
 
 ---
 
-# Exercice 3 : Operations sur les langages
+## Exercice 3 : Operations sur les langages
 
 1. Soit l'alphabet :  
 `    Σ={a,b,c}`
@@ -174,7 +170,7 @@ Calcul de (L1 ∪ L2)² :
 
 
 ---
-# Exercice 4 : Reconnaisseur
+## Exercice 4 : Reconnaisseur
 
  - Dans quel état se trouve R Apres la lecture des mots `a, ab, abb, abba `
  1. `a`
@@ -214,7 +210,7 @@ Calcul de (L1 ∪ L2)² :
 	a^2ba^2 b et a^2 ne seront pas reconnus
 
 ---
-# Exercice 5: Grammaire de réécriture
+## Exercice 5: Grammaire de réécriture
 
 Soit la grammaire formelle G=({S,R},{a,b},P,S)G = (\{S, R\}, \{a, b\}, P, S)G=({S,R},{a,b},P,S), où l'ensemble des règles de production PPP est :
 
@@ -245,3 +241,132 @@ Ainsi, le mot abbb est obtenu.
 2. `S→bR`  : on génère b, reste R.
 3. ` R→bS`: on génère b, reste R.
 et donc on aura `abbR` or R ne peut pas donner `ε` donc `abb` ne peut être  généré par G
+
+
+# TD2
+
+---
+
+## Exercice 1 :
+Pour chaque affirmation, dire si elle est vraie ou fausse puis justifier :
+
+1) Tout langage régulier est infini.  
+**Faux** : ∅ est fini et ∅ est un langage régulier.
+
+2) Il y a une infinité de langages réguliers.  
+**Vrai** : on peut avoir une infinité d’E.R et chaque E.R désigne un langage régulier.
+
+3) L’union de 2 langages reconnaissables est reconnaissable.  
+**Vrai** : les langages reconnaissables sont clos par l’union.
+
+4) L’intersection de deux langages reconnaissables est un langage reconnaissable.  
+**Vrai** : car les langages reconnaissables sont clos par l’intersection.
+
+---
+
+## Exercice 2 :
+Ces E.R contiennent-elles le mot vide ?
+
+1. (a + b)a\* b(a + b(b + ab)\*)\*  
+   **⇔ b donc ne contient pas ∈.**
+
+2. (a + b)(aa\* + bb\*a)\*  
+   **⇔ a + b ne contient pas le mot vide ∈.**
+
+3. (a + c)(a + b)(1 + c)(1 + d)(∈ + f)  
+   **⇔ ne contient pas le mot vide.**
+
+4. (a + (b + (c + d)\*))\*  
+   **⇔ ∈ donc contient le mot vide.**
+
+---
+
+## Exercice 3 :
+Donnons tous les mots de longueur 0, 1, 2, 3 et 4 dans les langages réguliers suivants :
+
+1. (a.b + ba)\*  
+   - L⁰ = {∈}  
+   - L¹ = {a, b}  
+   - L² = {aa, ba}  
+   - L³ = {aaa, aba, baa}  
+   - L⁴ = {abaa, baba, aaaa, aaba, baaa}  
+
+2.  a(aa + b(ab)\*a)\*a  
+   - L⁰ = ∅  
+   - L¹ = ∅  
+   - L² = {aa}  
+   - L³ = ∅  
+   - L⁴ = {aaaa, abaa}  
+
+---
+
+## Exercice 4 :
+Soit A = {a, b}. Donnez la description des langages donnés par les expressions relationnelles :
+
+1. A\* 
+   {m ∈ {a, b}∗ / m représente l’ensemble de tous les mots .}
+
+2. **AA**  
+   {m ∈ {a, b}∗ / m représente l’ensemble de tous les mots de longueur 2.}
+
+3. **(E + A)(E + A)**  
+   {m ∈ {a, b}∗ / |m| ≤ 2, tous les mots de longueur au plus 2 sur {a, b}.}
+
+4. (AA)\* 
+   {m ∈ {a, b}∗ / m représente l’ensemble de mots de longueur paire sur A = {a, b}.}
+
+5. aA\* 
+   {m ∈ {a, b}∗ / m représente l’ensemble de mots commençant par a.}
+
+6. A\* a  
+   {m ∈ {a, b}∗ / m représente l’ensemble de mots terminant par a.}
+
+7. A\* a A\*
+   {m ∈ {a, b}∗ / m représente l’ensemble de mots contenant le mot a ou bien a est facteur.}
+
+8. A\* abA\*  
+   {m ∈ {a, b}∗ / m représente l’ensemble de mots où ab est le facteur du mot m.}
+
+9. A\* aA\* bA\*
+   L’ensemble de tous les mots sur l’alphabet {a, b} avec au moins une occurrence de a suivie par au moins une occurrence de b.
+
+10. **(b + ab)(a + E)**  
+    {m ∈ {a, b}∗ / m représente l’ensemble de mots se terminant par a.}
+
+11. a\* + b\* 
+    {m ∈ {a, b}∗ / m représente l’ensemble de mots contenant 0 ou plusieurs a ou bien 0 ou plusieurs b.}
+
+12. (aa + b)\* 
+	m ∈ {a, b}∗ / m représente l'ensemble des mots formés de **zéro ou plusieurs** répétitions de "aa" et de "b"
+
+13. (ab\* a + b)
+	{m ∈ {a, b}∗ / m est composé de zéro ou plusieurs répétitions de une occurrence de "a", suivie de zéro ou plusieurs "b", puis un autre "a", ou simplement une occurrence de "b".}
+
+14. (ab)\*
+    {m ∈ {a, b}∗ / m représente l’ensemble des mots contenant 0 ou plusieurs ab sur A = {a, b}.}
+
+15. a\* + bc\* d
+    {m ∈ {a, b}∗ / m représente l’ensemble de mots contenant uniquement des "a" (y compris la chaîne vide), ou contenant un "b", suivi de zéro ou plusieurs "c", et se terminant par un "d".}
+
+
+## Exercice 5
+
+1. le langage des mots qui entre deux occurrences de la lettre a ont un nombre pair de b
+
+	b\* +(a(bb)*a)*+b\*
+2. Le langage des mots tels que toutes les éventuelles occurrences de a precedent toute les éventuelles occurrences de b
+	a\* b\*
+
+## Exercice 6
+### Le langage L(E) :
+
+Le langage L(E), qui est l'ensemble des chaînes acceptées par l'expression régulière E, est donc constitué de toutes les chaînes qui :
+
+- Se terminent par un "c",
+- Et qui avant ce "c" peuvent contenir n'importe quelle combinaison de "a" et "b", ou rien du tout (c'est-à-dire la chaîne vide).
+
+Ainsi, le langage L(E) est formé des chaînes suivantes :
+
+- "", "c", "ac", "bc", "abc", "bac", "aabbc", "abac", etc.
+
+En résumé, L(E) est l'ensemble de toutes les chaînes qui se terminent par un "c", et qui avant ce "c" peuvent être composées de n'importe quel lettre entre   "a" et "b" ou epsilon.
