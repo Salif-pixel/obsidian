@@ -6,6 +6,8 @@
   "gpt3-notes",
   "editing-toolbar",
   "obsidian-minimal-settings",
-  "dataview",
-  "heatmap-calendar"
+  "heatmap-calendar",
+  "templater-obsidian",
+  "customjs",
+  "dataview"
 ]

@@ -4,24 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "ec03b7ac17abef1d",
+        "id": "e6f02ad6cde8e5e3",
         "type": "tabs",
         "children": [
           {
-            "id": "d8cff26b43f09eed",
+            "id": "d265d30738d24991",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/UML/BudgetEase.md",
+                "file": "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/analyse numerique/Outils et méthodes mathématiques analyse numérique.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BudgetEase"
+              "title": "Outils et méthodes mathématiques analyse numérique"
+            }
+          },
+          {
+            "id": "9c6dc265effe7b89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/ds/Sans titre 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sans titre 1"
+            }
+          },
+          {
+            "id": "d16e4bd27509f9ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/ds/rapport template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "rapport template"
+            }
+          },
+          {
+            "id": "85ed2daccd7f73ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/analyse numerique/Outils et méthodes mathématiques analyse numérique.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Outils et méthodes mathématiques analyse numérique"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -78,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ada0544953990b0a",
@@ -95,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/devoir/Devoir Revision.md",
+                "file": "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/ds/rapport template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Devoir Revision"
+              "title": "Rétrolien pour rapport template"
             }
           },
           {
@@ -166,6 +208,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "graph:Ouvrir la vue graphique": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "canvas:Créer une nouvelle toile": false,
@@ -177,10 +220,31 @@
       "gpt3-notes:GPT-3 Notes": false
     }
   },
-  "active": "d8cff26b43f09eed",
+  "active": "85ed2daccd7f73ff",
   "lastOpenFiles": [
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/UML/FICHE TEXTUELLE.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/ds/asterisk.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/ds/rapport template.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/ds/Sans titre 1.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/analyse numerique/Outils et méthodes mathématiques analyse numérique.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/ds/template.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/devoir/Devoir Revision.md",
+    "mermaid-fix.js",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/ds",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/Sans titre.md",
+    "symbols.md",
+    "logo_esp.png",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/analyse numerique/Problèmes d'interpolation.md",
+    "Logo_ucad 1.png",
+    "Logo_ucad.png",
     "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/UML/BudgetEase.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/SGBD/Sans titre.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Big Data/Rapport développement d'application map reduce.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Big Data/Intro au Big Data.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Big Data/Les Différents domaines.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Théorie des Langages et automates/TD/TD Introduction à la théorie des langages Salif Biaye DIC2 (GLSI).md",
+    "[\"dd1\"],\"22l,ds\",\"dk-2knd\".md",
+    "[\"dd1\"],\"22l,ds\",[\"dk-2knd\".md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/UML/FICHE TEXTUELLE.md",
     "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Programmation Système et réseau/Systèmes de fichiers.md",
     "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Droit de l'entreprise/Les statuts des différentes organisations.md",
     "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Droit de l'entreprise/Introduction au droit de l'entreprise.md",
@@ -189,22 +253,6 @@
     "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Droit de l'entreprise/TD/TD1 droit de l'entreprise.md",
     "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Droit de l'entreprise/TD/Les droits qui protègent les créateurs de bases de données.md",
     "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Droit de l'entreprise/TD/TD droit de l'entreprise.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Droit de l'entreprise/TD/Les droits d’auteur et les droits voisins des droits d'auteur.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Programmation Système et réseau/Processus.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/devoir/Devoir Revision.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/TD/TD Réseaux avances.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/Configuration de FreeRADIUS avec LDAP.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/Configuration d’un Serveur PXE sur Ubuntu.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/IPV4 VS IPV6.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/Configuration de FreeRADIUS avec MySQL.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/Configuration d'un service  SSH avec Kerberos.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/Exercice 2 Salif Biaye.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/Fragmentation - segmentation - sécurité.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/Samba.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/Routage Algo de routage Protocole de routage.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/note presentation.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Poo Java/Surdéfinition.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Poo Java/Javadoc.md",
     "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/devpersonnel/logo.jpeg",
     "Pasted image 20250127142951.png",
     "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/devoir",
@@ -214,17 +262,12 @@
     "Pasted image 20250112220230.png",
     "Pasted image 20250112220036.png",
     "Pasted image 20250112220256.png",
-    "Pasted image 20250106111543.png",
-    "cluster2 2.png",
-    "cluster2 1.png",
     "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Signal/TD/Td1",
     "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Signal/TD",
     "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Droit de l'entreprise/Chapitre II",
     "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Théorie des Langages et automates/TD",
     "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Poo Java/TD",
     "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Poo Java/Poo avancée",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Programmation Système et réseau/TD",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Intelligence Artificielle/TD",
     "python/Hangman game.canvas",
     "Sans titre.canvas",
     "Sans titre 1.canvas",

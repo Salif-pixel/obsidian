@@ -13,13 +13,26 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Configuration de FreeRADIUS avec MySQL.pdf"
+                "file": "Outils et méthodes mathématiques analyse numérique.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Configuration de FreeRADIUS avec MySQL"
+              "title": "Outils et méthodes mathématiques analyse numérique"
+            }
+          },
+          {
+            "id": "da6e7b8df509be3b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,12 +174,15 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "3b22cef945c894ad",
+  "active": "da6e7b8df509be3b",
   "lastOpenFiles": [
+    "Sans titre 1.pdf",
+    "Sans titre.pdf",
+    "rapport template.pdf",
+    "Configuration de FreeRADIUS avec MySQL.pdf",
     "FICHE TEXTUELLE.pdf",
     "Configuration de FreeRADIUS avec LDAP.pdf",
     "Dic2/Bienvenue.md",
-    "Configuration de FreeRADIUS avec MySQL.pdf",
     "Javadoc.pdf",
     "Devoir Revision.pdf",
     "TD Réseaux avances.pdf"

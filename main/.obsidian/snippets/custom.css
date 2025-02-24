@@ -1,3 +1,345 @@
 body{
     --file-line-width:1000px;
 }
+/* Dans .obsidian/snippets/custom-cover.css */
+
+.banner {
+    width: 100%;
+    max-height: 150px;
+    object-fit: cover;
+}
+
+.logo {
+    display: block;
+    margin: 30px auto;
+    border-radius: 50%;
+}
+
+.main-title {
+    border-bottom: 3px double #1a5f7a;
+    border-top: 3px double #1a5f7a;
+}
+
+.content {
+    background: linear-gradient(to right, #ffffff 0%, #f5f7fa 50%, #ffffff 100%);
+}
+
+.supervisor {
+    border-left: 5px solid #1a5f7a;
+}
+
+.footer {
+    background: linear-gradient(to bottom, transparent 0%, #f5f7fa 100%);
+    padding-bottom: 30px;
+}
+/* Table des matières stylisée */
+.toc-container {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    page-break-after: always;
+}
+
+.toc-container h1 {
+    font-size: 1.8em;
+    font-weight: 600;
+}
+
+.toc-container h3 {
+    font-size: 1.2em;
+    margin-top: 25px;
+    margin-bottom: 10px;
+    color: #2c3e50;
+}
+
+.toc-container ul {
+    list-style: none;
+    padding-left: 20px;
+}
+
+.toc-container li {
+    margin: 8px 0;
+    color: #34495e;
+}
+
+.toc-container a {
+    color: #34495e;
+    text-decoration: none;
+    transition: all 0.2s ease;
+}
+
+.toc-container a:hover {
+    color: #1a5f7a;
+    text-decoration: underline;
+}
+
+/* Style pour les sous-sections */
+.toc-container li li {
+    font-size: 0.95em;
+    color: #505c66;
+}
+
+/* Style pour les sous-sous-sections */
+.toc-container li li li {
+    font-size: 0.9em;
+    color: #606c76;
+}
+
+.exercice-container {
+    padding: 30px;
+    margin: 40px 0;
+    page-break-after: always;
+}
+
+.exercice-header {
+    background: #1981ff;
+    color: white;
+    padding: 15px 25px;
+    margin: -30px -30px 20px -30px;
+    border-radius: 10px 10px 0 0;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.exercice-title {
+    font-size: 1.5em;
+    font-weight: 600;
+    margin: 0;
+}
+
+.exercice-content {
+    padding: 20px 0;
+}
+
+.section {
+    background: #ffffff;
+    border: 1px solid #eaeaea;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 15px 0;
+}
+
+.section-title {
+    color: #1a5f7a;
+    font-size: 1.2em;
+    font-weight: 600;
+    margin-bottom: 15px;
+    padding-bottom: 8px;
+    border-bottom: 2px solid #eaeaea;
+}
+
+.math-block {
+    background: #f8f9fa;
+    border-left: 3px solid #4a90e2;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 5px;
+}
+
+
+
+
+
+
+/*rapport reseau*/
+
+/* Styles généraux */
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f4f4f4;
+}
+
+.rapport-container {
+    background-color: #fff;
+    padding: 40px;
+}
+
+/* Page de garde */
+.page-de-garde {
+    text-align: center;
+    padding: 40px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    margin-bottom: 50px;
+    page-break-after: always;
+}
+
+.page-de-garde .universite {
+    font-size: 2.5em;
+    color: #2c3e50;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.page-de-garde .ecole {
+    font-size: 2em;
+    color: #34495e;
+    margin-bottom: 30px;
+    font-weight: 300;
+}
+
+.page-de-garde .logo-container {
+    margin: 40px 0;
+}
+
+.page-de-garde .logo {
+    width: 150px;
+    height: 150px;
+    background-color: #3498db;
+    border-radius: 50%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.page-de-garde .logo img {
+    max-width: 80%;
+    max-height: 80%;
+}
+
+.page-de-garde .titre-rapport {
+    font-size: 2.2em;
+    color: #2c3e50;
+    margin: 30px 0;
+    padding: 15px;
+    border-top: 2px solid #3498db;
+    border-bottom: 2px solid #3498db;
+}
+
+.page-de-garde .auteurs,
+.page-de-garde .superviseur {
+    margin: 20px 0;
+}
+
+.page-de-garde .label {
+    font-size: 1.2em;
+    color: #7f8c8d;
+    margin-bottom: 5px;
+}
+
+.page-de-garde .nom {
+    font-size: 1.3em;
+    color: #2c3e50;
+    margin-bottom: 5px;
+}
+
+.page-de-garde .annee {
+    font-size: 1.1em;
+    color: #ebf6f6;
+    margin-top: 40px;
+}
+
+/* Table des matières */
+.table-des-matieres {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 30px;
+}
+
+.table-des-matieres h2 {
+    color: #2c3e50;
+    font-size: 1.5em;
+    margin-bottom: 15px;
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 10px;
+}
+
+.table-des-matieres ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.table-des-matieres li {
+    margin-bottom: 10px;
+}
+
+.table-des-matieres a {
+    color: #3498db;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.table-des-matieres a:hover {
+    color: #2980b9;
+}
+
+/* Sections du rapport */
+.section-rapport {
+    margin-bottom: 40px;
+}
+
+.section-rapport h2 {
+    color: #2c3e50;
+    font-size: 2em;
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.bloc-contenu {
+    background-color: #f9f9f9;
+    padding: 60px;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+    /*page-break-inside: avoid;*/
+}
+
+.bloc-contenu h3 {
+    color: #2c3e50;
+    font-size: 1.5em;
+    margin-bottom: 15px;
+}
+
+.diagramme-mermaid {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    margin: 20px 0;
+    overflow-x: auto;
+    border: 1px solid #e0e0e0;
+}
+.bloc-code {
+    background-color: #ffffff;
+    color: #ecf0f1;
+    padding: 15px;
+    border-radius: 8px;
+    overflow-x: auto;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold; /* Ajout pour le texte en gras */
+}
+
+
+.bloc-code pre {
+    margin: 0;
+}
+
+.image-container {
+    max-width: 100%;
+    margin: 20px 0;
+}
+
+.image-container img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Pied de page */
+.pied-de-page {
+    text-align: center;
+    margin-top: 40px;
+    color: #7f8c8d;
+    font-size: 0.9em;
+    padding-top: 20px;
+    border-top: 1px solid #e0e0e0;
+}

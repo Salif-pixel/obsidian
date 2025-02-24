@@ -216,7 +216,7 @@ Soit la grammaire formelle G=({S,R},{a,b},P,S)G = (\{S, R\}, \{a, b\}, P, S)G=({
 
 1. `S→aS`
 2. `S→bR`
-3.  ` S→b`
+3. `S→b`
 4. `R→aR`
 5. `R→bS`
 
@@ -370,3 +370,8 @@ Ainsi, le langage L(E) est formé des chaînes suivantes :
 - "", "c", "ac", "bc", "abc", "bac", "aabbc", "abac", etc.
 
 En résumé, L(E) est l'ensemble de toutes les chaînes qui se terminent par un "c", et qui avant ce "c" peuvent être composées de n'importe quel lettre entre   "a" et "b" ou epsilon.
+
+
+["dd1","22lds","dk-2knd"]
+[["dd1","22l,ds"],["dk-2knd"]]
+[[["1dd1"],"22l,ds","dk-2knd"]]]
