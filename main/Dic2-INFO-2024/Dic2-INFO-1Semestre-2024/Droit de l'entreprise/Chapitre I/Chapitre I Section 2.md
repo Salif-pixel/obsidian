@@ -45,7 +45,7 @@ Il s'agit de :
 il existe deux manière de protéger le fonds de commerce 
 
 ### -A La protection légale
-Elle est liée a la mise ne jeux de la responsabilité civile  et pénale  et dans ce cas il faut un préjudices  u dommage et un lien de causalité entre le préjudice et le dommage. Cette responsabilité se traduit par l'action en concurrence déloyal et de l'action en contrefaçon  par le contrefacteur.
+Elle est liée a la mise en jeux de la responsabilité civile  et pénale  et dans ce cas il faut un préjudices  ou dommage et un lien de causalité entre le préjudice et le dommage. Cette responsabilité se traduit par l'action en concurrence déloyal et de l'action en contrefaçon  par le contrefacteur.
 
 ### -B la protection conventionnelle
 Elle résulte de l'introduction de close de non concurrence et de close d'exclusivité dans les contrats.

@@ -37,7 +37,6 @@ L'acte uniforme distingue :
 	>- et de tout gisement de ressources naturelles
 	>- Les opérations de locations de meubles 
 	>- les opérations de manufactures
-	>- les opérations de transport
 	>- les opérations de télécommunication
 
 - Les actes de commerce par accessoire:
@@ -105,7 +104,7 @@ Exemple:
 Pour des raisons de santé publique: Il est interdit de mener des activités portant sur la vente de stupéfiants
 Pour des raisons de sécurité publique: La fabrication ou la vente d'arme est interdite
 - Les commerces soumis à autorisation administratives (`commerce réglementé`):
-C'est une limitation qui permet à l'Etat de surveiller et de diriger l'économie. Dons cette restriction prend alors la forme
+C'est une limitation qui permet à l'Etat de surveiller et de diriger l'économie. Dans cette restriction prend alors la forme
 d'une autorisation ou bien d'une licence
 Exemple:
 L'autorisation d'établissement pour les banques ou bien une licence d'exploitation pour les débuts de boisson ou pour le
@@ -163,7 +162,7 @@ L'arbitrage se déroule de la manière suivante: Soit il existe une clause compr
 parties on recourt à un compromis d'arbitrage après la naissance du litige
 Une clause compromissoire est une clause par la quel les parties décident de confier les règlements de leurs litiges futur à
 un arbitre. La clause se trouve dans le contrat de base
-Le compromis d'arbitrage est une convention par laquelle les parties décident de confier leurs litiges déjà nés d=à un
+Le compromis d'arbitrage est une convention par laquelle les parties décident de confier leurs litiges déjà nés à un
 arbitre (les arbitres sont en nombre impaire).
 La décision rendue par la cour arbitrale s'appelle sentence. La sentence doit faire l'objet d'un exéquatur au prêt du juge
 judiciaire
