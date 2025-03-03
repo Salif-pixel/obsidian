@@ -50,7 +50,7 @@ mais toute société n'acquiert la personnalité juridique qu'a partir de son im
 
 ## -A les statuts
 Ils sont élaborés par les membres fondateurs et souvent devant un notaire
-donc toute société doit avoir des statuts rédigés sous la forme d'un acte authentique ou bien sous la forme d'un acte sous sain privée. Les statuts doivent être signés par les premiers dirigeants  : les associés  par conséquent  dvw a partir de la signature des statuts
+donc toute société doit avoir des statuts rédigés sous la forme d'un acte authentique ou bien sous la forme d'un acte sous sain privée. Les statuts doivent être signés par les premiers dirigeants  : les associés  par conséquent   a partir de la signature des statuts
 Les statuts doivent contenir :
 - La forme juridique de la société : <font color="#f79646">SA SARL SNC SCS</font>
 - Le nom ou la dénomination sociale
@@ -65,7 +65,7 @@ En dehors de ces mentions il y en a d'autre tel que le numéro d'immatriculation
 Cette immatriculation se fait au niveau du tribunal à compétence commerciale . Toutes société
 doit être immatriculé au registre du commerce pour avoir la règlementation juridique excepté
 la société en participation SP. La SP est dépourvu de la personnalité juridique. Elle est soit
-occulte soit ostensible elle n'est pas immatriculé au registre d =u commerce
+occulte soit ostensible elle n'est pas immatriculé au registre du commerce
 NB : la sanction au non-respect des conditions de fonds et de forme entraine la nullité et la
 responsabilité de toutes personnes intervenant dans la constitution de la société
 Mais il peut y avoir société créé de fait ou bien société de fait
@@ -77,6 +77,12 @@ avoir constitués entre elles l'une des forme de société reconnu par l'acte un
 ### b La société de fait
 Il y a société de fait lorsque deux ou plusieurs personnes physique ou morale ont constitués
 une société reconnu par l'acte uniforme de L'`OHADA` mais sans que ces personnes n'aient
-accompli les formalité légal de constitution
+accompli les formalités légal de constitution
 Lorsque une société créé de fait ou une société de fait est reconnu par le juge on lui applique
-les règles du société en nom collectif `SNC`
+les règles du société en nom collectif `SNC`.
+En effet, les associés dans la sociétés en nom collectif sont des commerçants. Par conséquent,
+les associés de la société créée de fait ou bien de la société de fait sont des commerçants de
+fait. Cela signifie que la sanction à l'inobservation des règles de constitution est la nullité. Cette
+nullité entraine un préjudice pour les tiers et les salariés donc il faut appliquer des règles
+particulière comme la solidarité entre commerçants.
+[[Chapitre II section 2]]

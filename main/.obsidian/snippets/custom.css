@@ -146,7 +146,12 @@ body{
 body {
     font-family: 'Arial', sans-serif;
     line-height: 1.6;
+<<<<<<< HEAD
     background-color: #f4f4f4;
+=======
+    /*color: #333;*/
+    /*background-color: #f4f4f4;*/
+>>>>>>> d8ecb65cacdf2ddf72dbb3e1140e38e69ee03e32
 }
 
 .rapport-container {

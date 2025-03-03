@@ -9,5 +9,6 @@
   "heatmap-calendar",
   "templater-obsidian",
   "customjs",
-  "dataview"
+  "dataview",
+  "obsidian-plantuml"
 ]

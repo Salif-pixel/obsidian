@@ -23,12 +23,12 @@
             "id": "da6e7b8df509be3b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "pdf",
               "state": {
-                "currentVersion": "1.8.7"
+                "file": "DS.pdf"
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
+              "icon": "lucide-file-text",
+              "title": "DS"
             }
           }
         ],
@@ -176,15 +176,17 @@
   },
   "active": "da6e7b8df509be3b",
   "lastOpenFiles": [
+    "freeradius-ldap.pdf",
+    "BudgetEase.pdf",
+    "Droit de l’entreprise et du travail.pdf",
+    "TD3  la Fusion et la Scission en Droit.pdf",
+    "TD2 droit de l'entreprise.pdf",
+    "TD1 droit de l'entreprise.pdf",
+    "asteriskldap.pdf",
+    "IPV4 VS IPV6.pdf",
+    "notes dp.pdf",
+    "asterisk.pdf",
     "Sans titre 1.pdf",
-    "Sans titre.pdf",
-    "rapport template.pdf",
-    "Configuration de FreeRADIUS avec MySQL.pdf",
-    "FICHE TEXTUELLE.pdf",
-    "Configuration de FreeRADIUS avec LDAP.pdf",
-    "Dic2/Bienvenue.md",
-    "Javadoc.pdf",
-    "Devoir Revision.pdf",
-    "TD Réseaux avances.pdf"
+    "Dic2/Bienvenue.md"
   ]
 }

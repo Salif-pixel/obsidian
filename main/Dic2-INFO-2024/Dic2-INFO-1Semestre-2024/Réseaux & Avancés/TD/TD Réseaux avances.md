@@ -37,7 +37,7 @@ _2001:200:25AF:6000:0000:0000:0000:0001_ à  _2001:200:25AF:7FFF:FFFF:FFFF:FFFF:
 
 3. Quelle est la liste des adresses des 16 sous réseaux obtenus a partir du sous réseau numero 6 _2001:200:25AF:C000:/51_
 on aura 2^4  =<font color="#92d050"> 16   </font>
-_2001:200:25AF:(<font color="#de7802">011<span style="background:#d3f8b6">0000</span>0</font>)00:0000:0000:0000:0000/55_
+_2001:200:25AF:(<font color="#de7802">110<span style="background:#d3f8b6">0000</span>0</font>)00:0000:0000:0000:0000/55_
 
 | <font color="#92d050">0</font>     | 2001 | 200 | 25AF | <font color="#de7802">110</font> | <font color="#de7802">0000</font> | <font color="#de7802">0</font> | 00  | 0000 | 0000 | 0000 | 0000 |
 | ---------------------------------- | ---- | --- | ---- | -------------------------------- | --------------------------------- | ------------------------------ | --- | ---- | ---- | ---- | ---- |
@@ -346,7 +346,7 @@ Déterminons la classe le masque de réseau le netID le hostID et l'adresse de d
 ## Exercice 1 
 
 Donnons les primitives utilisés
-Requête -> indication -> reponse -> infirmation/confirmation
+Requête -> indication 
 
 # Exercice 2 voir Hint1
 
@@ -389,3 +389,6 @@ _2001:88:1F80::203:FFFF:4C18:FFE1/62_
 voici le réseau d'appartenance
 
 `2001:88:1F80::/62`
+
+
+

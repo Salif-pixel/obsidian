@@ -1,5 +1,6 @@
 
 ---
+
 <div class="rapport-container">
 
 <div class="page-de-garde">
@@ -1262,25 +1263,30 @@ utilisateurs dans notre annuaire LDAP. Pour ça  on a un script python pour ajou
 
 <div id="test-config" class="bloc-contenu">
 <h3>Test de la configuration</h3>
-<p>voici une video montrant comment executer le script les resultat et on va utiliser un outil pour appeler zoiper</p>
+<p>
+
+voici une 
+[video](https://drive.google.com/file/d/1yCCLZ6hIjadpSPcR2gjeF5rw9S8o6yAd/view?usp=sharing) montrant comment executer le script les resultat et on va utiliser un outil pour appeler zoiper
+
+</p>
 
 <p>Création de deux utilisateurs pour le test :</p>
-- pape (extension: 1002)
-- papis (extension: 1003)
+- leuk (extension: 3000)
+- bouki(extension: 3001)
 
 <div class="diagramme-mermaid mermaid">
 
 ```mermaid
 sequenceDiagram
-    participant pape as pape (1002)
+    participant leuk as leuk (3000)
     participant Asterisk as Serveur Asterisk
-    participant papis as papis (1003)
+    participant bouki as bouki (3001)
     
-    pape->>Asterisk: Appel vers 1003
+    bouki->>Asterisk: Appel vers 3000
     Asterisk->>Asterisk: Vérification LDAP
-    Asterisk->>papis: Sonnerie
-    papis->>Asterisk: Décroche
-    Asterisk->>pape: Connexion établie
+    Asterisk->>leuk: Sonnerie
+    leuk->>Asterisk: Décroche
+    Asterisk->>bouki: Connexion établie
 ```
 
 </div>

@@ -517,3 +517,26 @@ graph TD
         UC19
     end
 ```
+
+
+
+---
+
+```plantuml
+@startuml
+left to right direction
+
+actor Utilisateur
+actor Admin
+
+rectangle "Système de Gestion" {
+    usecase "Créer Compte" as UC1
+    usecase "Gérer Profil" as UC2
+    usecase "Supprimer Compte" as UC3
+}
+
+Utilisateur --> UC1
+Utilisateur --> UC2
+Admin --> UC3
+@enduml
+```
