@@ -146,12 +146,11 @@ body{
 body {
     font-family: 'Arial', sans-serif;
     line-height: 1.6;
-<<<<<<< HEAD
     background-color: #f4f4f4;
-=======
+
     /*color: #333;*/
     /*background-color: #f4f4f4;*/
->>>>>>> d8ecb65cacdf2ddf72dbb3e1140e38e69ee03e32
+
 }
 
 .rapport-container {
@@ -166,7 +165,7 @@ body {
     background-color: #f9f9f9;
     border-radius: 10px;
     margin-bottom: 50px;
-    page-break-after: always;
+    /*page-break-after: always;*/
 }
 
 .page-de-garde .universite {
@@ -242,7 +241,7 @@ body {
     /*background-color: #f9f9f9;*/
     border: 1px solid #e0e0e0;
     padding: 20px;
-    height: 1200px;
+    height: 1350px;
     border-radius: 8px;
     margin-bottom: 30px;
     page-break-after: always;
@@ -305,7 +304,7 @@ ul > li > a {
     max-width: 100%;
     box-sizing: border-box;
     /*page-break-inside: avoid;*/
-    page-break-after: always;
+    /*page-break-after: always;*/
 }
 
 .bloc-contenu h3 {
@@ -318,7 +317,7 @@ ul > li > a {
     background-color: #fff;
     padding: 20px;
     border-radius: 8px;
-    margin: 20px 0;
+    margin: 10px 0;
     overflow-x: auto;
     border: 1px solid #e0e0e0;
 }

@@ -25,10 +25,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "DS.pdf"
+                "file": "webrtc-jitsimeet-docker.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "DS"
+              "title": "webrtc-jitsimeet-docker"
             }
           }
         ],
@@ -176,17 +176,17 @@
   },
   "active": "da6e7b8df509be3b",
   "lastOpenFiles": [
+    "samba-novnc.pdf",
+    "Rapport.pdf",
+    "asterisk-ldap.pdf",
+    "webrtc-jitsimeet-docker.pdf",
+    "pfsense-radius.pdf",
+    "kerberos-ldap-dns.pdf",
+    "iredmail-ldap.pdf",
+    "FICHE TEXTUELLE.pdf",
     "freeradius-ldap.pdf",
-    "BudgetEase.pdf",
-    "Droit de l’entreprise et du travail.pdf",
-    "TD3  la Fusion et la Scission en Droit.pdf",
-    "TD2 droit de l'entreprise.pdf",
-    "TD1 droit de l'entreprise.pdf",
-    "asteriskldap.pdf",
     "IPV4 VS IPV6.pdf",
     "notes dp.pdf",
-    "asterisk.pdf",
-    "Sans titre 1.pdf",
     "Dic2/Bienvenue.md"
   ]
 }

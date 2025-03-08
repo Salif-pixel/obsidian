@@ -231,7 +231,7 @@ graph TD
 1. Créez un fichier racine LDIF :
     
     ```bash
-    nano ~/users.ldif
+    nano ~/racine.ldif
     ```
     
 2. Ajoutez le contenu suivant :

@@ -4,53 +4,109 @@
     "type": "split",
     "children": [
       {
-        "id": "ec03b7ac17abef1d",
+        "id": "5c9a4244e65a6469",
         "type": "tabs",
         "children": [
           {
-            "id": "4e5bd0e40cc8e0aa",
+            "id": "999c0b3806635592",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/ds/asterisk.md",
+                "file": "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/ds/kerberos-ldap-dns.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "asterisk"
+              "title": "kerberos-ldap-dns"
             }
           },
           {
-            "id": "99265959871b307e",
+            "id": "c0a03582bb6660be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/ds/Sans titre.md",
+                "file": "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/ds/pfsense-radius.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sans titre"
+              "title": "pfsense-radius"
             }
           },
           {
-            "id": "49bfa0110e1a4f1b",
+            "id": "98f600431abba70f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/ds/freeradius-ldap.md",
+                "file": "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/ds/iredmail-ldap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "freeradius-ldap"
+              "title": "iredmail-ldap"
+            }
+          },
+          {
+            "id": "7c5eab61b75db818",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/ds/webrtc-jitsimeet-docker.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "webrtc-jitsimeet-docker"
+            }
+          },
+          {
+            "id": "41c2f9c3e88543ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/ds/asterisk-ldap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "asterisk-ldap"
+            }
+          },
+          {
+            "id": "4e6ac4aa7a84a45c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/ds/samba-novnc.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "samba-novnc"
+            }
+          },
+          {
+            "id": "898ad4a9a4f9be5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/ds/Rapport.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rapport"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -83,7 +139,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -123,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Poo Java/TD/Rapport  Implementation des classes Point et PointColore en Java.md",
+                "file": "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/ds/rapport template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +189,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Rapport  Implementation des classes Point et PointColore en Java"
+              "title": "Rétrolien pour rapport template"
             }
           },
           {
@@ -181,8 +237,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Le module complémentaire n'est plus actif."
             }
           }
         ]
@@ -206,49 +262,49 @@
       "gpt3-notes:GPT-3 Notes": false
     }
   },
-  "active": "99265959871b307e",
+  "active": "898ad4a9a4f9be5b",
   "lastOpenFiles": [
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/ds/freeradius-ldap.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/ds/Sans titre.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/ds/asterisk.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Programmation Système et réseau/Processus.md",
+    "Mediamodifier-Design-Template.png",
+    "Mediamodifier-Design-Template (2).png",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/ds/asterisk-ldap.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/ds/kerberos-ldap-dns.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/ds/pfsense-radius.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/ds/webrtc-jitsimeet-docker.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/ds/samba-novnc.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/ds/iredmail-ldap.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/ds/Rapport.md",
+    "Untitled diagram-2025-03-05-233416.png",
+    "Untitled diagram-2025-03-05-232940.png",
+    "Sans titre 2.md",
+    "systeme 8.png",
+    "systeme 7.png",
+    "systeme 6.png",
+    "systeme 5.png",
+    "systeme 4.png",
+    "systeme 3.png",
+    "systeme 2.png",
     "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/ds/rapport template.md",
-    "Pasted image 20250304003501.png",
-    "Pasted image 20250304003435.png",
-    "Pasted image 20250303233100.png",
-    "Pasted image 20250303232759.png",
-    "Pasted image 20250303232536.png",
-    "Pasted image 20250303232339.png",
-    "Pasted image 20250303232046.png",
-    "Pasted image 20250303231853.png",
-    "Pasted image 20250303231240.png",
-    "Pasted image 20250303230752.png",
     "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/ds/template.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/Configuration de FreeRADIUS avec LDAP.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Big Data/Intro au Big Data.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/TD/TD Réseaux avances.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/TD/ds reseau.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/devoir/Devoir Revision.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/ds/freeradius-ldap.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/ds/Sans titre 1.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/UML/BudgetEase.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Programmation Système et réseau/Processus.md",
     "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/algo & structure/Sans titre.md",
     "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/algo & structure",
-    "notes dp.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/ds/Sans titre 1.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/Configuration d'un service  SSH avec Kerberos.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/Configuration d’un Serveur PXE sur Ubuntu.md",
-    "Sans titre.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/devpersonnel/Teranga Care - Rapport de Création d'Entreprise.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/devoir/Devoir Revision.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/devoir",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/TD/TD Réseaux avances.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/TD",
-    "test.md",
-    "symbols.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Droit de l'entreprise/TD/TD3  la Fusion et la Scission en Droit.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Droit de l'entreprise/Chapitre II/Chapitre II section 2.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Droit de l'entreprise/Chapitre II/Chapitre II Section 1.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Droit de l'entreprise/Chapitre II/Chapitre II  Intro.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Droit de l'entreprise/Chapitre I/Chapitre I Section 2.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Droit de l'entreprise/Chapitre I/Chapitre I Section 1.md",
     "mermaid-fix.js",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/analyse numerique/Outils et méthodes mathématiques analyse numérique.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/UML/FICHE TEXTUELLE.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/UML/BudgetEase.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Théorie des Langages et automates/TD/TD Introduction à la théorie des langages Salif Biaye DIC2 (GLSI).md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/SGBD/Sans titre.md",
     "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/ds",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Théorie des Langages et automates/TD/TD1 Introduction à la théorie des langages Salif Biaye DIC2 (GLSI).md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/Sans titre.md",
-    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Programmation Système et réseau/Systèmes de fichiers.md",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/devoir",
+    "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Réseaux & Avancés/TD",
     "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Signal/TD/Td1",
     "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Signal/TD",
     "Dic2-INFO-2024/Dic2-INFO-1Semestre-2024/Droit de l'entreprise/Chapitre II",

@@ -93,3 +93,4 @@ le big data se réfère aux technologies qui permettent aux entreprises d'analys
 ### Data analyste
 
 quelqu'un qui a des compétence technique et métier exemple quelqu'un pouvant faire un Dashboard
+
